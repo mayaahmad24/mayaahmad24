@@ -1,102 +1,192 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Maya%20Mohamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20App%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
-
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=%D9%85%D8%B7%D9%88%D8%B1%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D8%B7%D9%85%D9%88%D8%AD%D8%A9+%F0%9F%92%9C;Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps" alt="Typing SVG" />
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+</div>
 
-</details>
-  
-<hr></hr>
+---
 
-**Code Cycle**<br>
+## 🌟 من أنا؟
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+### 🇸🇦 العربية
+مطورة برمجيات طموحة، شغوفة ببناء وتصميم التطبيقات والمواقع الإلكترونية، وأسعى دائماً لتطوير مهاراتي في عالم البرمجة.
+
+</td>
+<td align="center" width="33%">
+
+### 🇬🇧 English
+An aspiring software developer passionate about building and designing applications and websites, always striving to grow in the programming world.
+
+</td>
+<td align="center" width="33%">
+
+### 🇷🇺 Русский
+Начинающий разработчик ПО, увлечённый созданием приложений и веб-сайтов, постоянно стремящийся к росту в мире программирования.
+
+</td>
+</tr>
+</table>
 
 </div>
 
+---
+
+## 🛠️ التقنيات التي أعمل بها | Tech Stack
+
+<div align="center">
+
+### 💻 لغات البرمجة | Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 تطوير الواجهات الأمامية | Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ تطوير الواجهات الخلفية | Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📱 تطبيقات الجوال | Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🧰 الأدوات | Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📚 خارطة طريقي لتعلم البرمجة الكاملة | Full-Stack Learning Roadmap
+
+> 🎯 **هدفي:** أن أصبح مطورة **Full-Stack** قادرة على بناء مواقع وتطبيقات متكاملة من الصفر حتى النشر.
+
+<div align="center">
+
+| المرحلة | المجال | التقنيات | الحالة |
+| :---: | :--- | :--- | :---: |
+| 1️⃣ | **أساسيات البرمجة** | C++, Logic, OOP | ✅ أتقنتها |
+| 2️⃣ | **الواجهات الأمامية** | HTML5, CSS3, JavaScript | 🟡 أتعلمها |
+| 3️⃣ | **أطر الواجهات** | React, TailwindCSS | ⏳ قادم |
+| 4️⃣ | **الواجهات الخلفية** | PHP, Node.js, Python | 🟡 أتعلمها |
+| 5️⃣ | **قواعد البيانات** | MySQL, MongoDB | ⏳ قادم |
+| 6️⃣ | **تطبيقات الجوال** | Flutter, React Native | ⏳ قادم |
+| 7️⃣ | **النشر والاستضافة** | Git, GitHub, Vercel, Netlify | 🟡 أتعلمها |
+| 8️⃣ | **الذكاء الاصطناعي** | Python, APIs | 🔮 طويل المدى |
+
+</div>
+
+---
+
+## 💡 ما يجب أن تعرفه لتصبح مطورة Full-Stack كاملة
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 المهارات الأساسية (Basics)
+- ✅ **HTML5** — بنية الصفحات
+- ✅ **CSS3** — التنسيق والتصميم
+- ✅ **JavaScript** — التفاعل والديناميكية
+- ✅ **Git & GitHub** — إدارة الإصدارات
+- ✅ **Responsive Design** — التصميم المتجاوب
+
+### 🎨 الواجهات الأمامية (Frontend)
+- 🟡 **React** أو **Vue.js** — أطر العمل
+- 🟡 **TailwindCSS** أو **Bootstrap**
+- ⏳ **TypeScript** — نسخة JavaScript المطورة
+- ⏳ **Next.js** — إطار React
+- ⏳ **Redux / Zustand** — إدارة الحالة
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ الواجهات الخلفية (Backend)
+- 🟡 **Node.js + Express**
+- 🟡 **PHP + Laravel**
+- 🟡 **Python + Django / Flask**
+- ⏳ **REST APIs** و **GraphQL**
+- ⏳ **Authentication** (JWT, OAuth)
+
+### 🗄️ قواعد البيانات (Databases)
+- 🟡 **MySQL** / **PostgreSQL** (SQL)
+- ⏳ **MongoDB** (NoSQL)
+- ⏳ **Redis** (Caching)
+- ⏳ **Prisma** / **Sequelize** (ORM)
+
+### 📱 تطبيقات الجوال (Mobile)
+- ⏳ **Flutter** (Dart)
+- ⏳ **React Native** (JS)
+- ⏳ **PWA** — تطبيقات ويب تقدمية
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 إحصائيات GitHub | GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
+
+</div>
+
+---
+
+## 🌱 رؤيتي | My Vision
+
+<div align="center">
+
+> **AR:** أن أتقن مختلف لغات البرمجة وأبني حلولاً تكنولوجية مبتكرة تترك بصمة واضحة، وأن أرى هذا الملف بعد سنوات شاهداً على قفزات تطوري.
+>
+> **EN:** To master various programming languages and build innovative tech solutions that leave a clear mark — and to look back at this file years from now as proof of my growth.
+>
+> **RU:** Освоить различные языки программирования и создавать инновационные решения, оставляющие заметный след.
+
+</div>
+
+---
+
+<div align="center">
+
+**💬 "التعلم المستمر هو المفتاح" — Continuous learning is the key**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+</div>
