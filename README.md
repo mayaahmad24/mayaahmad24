@@ -3,49 +3,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Maya%20Mohamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20%26%20App%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=%D9%85%D8%B7%D9%88%D8%B1%D8%A9+%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA+%D8%B7%D9%85%D9%88%D8%AD%D8%A9+%F0%9F%92%9C;Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%9A%80;Frontend+%7C+Backend+%7C+Mobile+Apps+%F0%9F%92%9C;Building+the+future%2C+one+line+at+a+time+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 🌟 من أنا؟
+## 🌟 Who Am I?
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🇸🇦 العربية
-مطورة برمجيات طموحة، شغوفة ببناء وتصميم التطبيقات والمواقع الإلكترونية، وأسعى دائماً لتطوير مهاراتي في عالم البرمجة.
-
-</td>
-<td align="center" width="33%">
-
-### 🇬🇧 English
-An aspiring software developer passionate about building and designing applications and websites, always striving to grow in the programming world.
-
-</td>
-<td align="center" width="33%">
-
-### 🇷🇺 Русский
-Начинающий разработчик ПО, увлечённый созданием приложений и веб-сайтов, постоянно стремящийся к росту в мире программирования.
-
-</td>
-</tr>
-</table>
+> An ambitious software developer with a deep passion for building and designing websites and applications. I'm constantly pushing myself to grow, learn, and leave my mark in the world of programming — one project at a time. 💜
 
 </div>
 
 ---
 
-## 🛠️ التقنيات التي أعمل بها | Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
 
-### 💻 لغات البرمجة | Programming Languages
+### 💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,7 +32,7 @@ An aspiring software developer passionate about building and designing applicati
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 تطوير الواجهات الأمامية | Frontend
+### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,19 +40,19 @@ An aspiring software developer passionate about building and designing applicati
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ تطوير الواجهات الخلفية | Backend
+### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📱 تطبيقات الجوال | Mobile
+### 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🧰 الأدوات | Tools
+### 🧰 Tools I Use
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -84,28 +63,28 @@ An aspiring software developer passionate about building and designing applicati
 
 ---
 
-## 📚 خارطة طريقي لتعلم البرمجة الكاملة | Full-Stack Learning Roadmap
+## 📚 My Full-Stack Learning Roadmap
 
-> 🎯 **هدفي:** أن أصبح مطورة **Full-Stack** قادرة على بناء مواقع وتطبيقات متكاملة من الصفر حتى النشر.
+> 🎯 **My Goal:** To become a **Full-Stack Developer** capable of building complete websites and applications — from the first line of code to deployment. 🚀
 
 <div align="center">
 
-| المرحلة | المجال | التقنيات | الحالة |
+| Stage | Field | Technologies | Status |
 | :---: | :--- | :--- | :---: |
-| 1️⃣ | **أساسيات البرمجة** | C++, Logic, OOP | ✅ أتقنتها |
-| 2️⃣ | **الواجهات الأمامية** | HTML5, CSS3, JavaScript | 🟡 أتعلمها |
-| 3️⃣ | **أطر الواجهات** | React, TailwindCSS | ⏳ قادم |
-| 4️⃣ | **الواجهات الخلفية** | PHP, Node.js, Python | 🟡 أتعلمها |
-| 5️⃣ | **قواعد البيانات** | MySQL, MongoDB | ⏳ قادم |
-| 6️⃣ | **تطبيقات الجوال** | Flutter, React Native | ⏳ قادم |
-| 7️⃣ | **النشر والاستضافة** | Git, GitHub, Vercel, Netlify | 🟡 أتعلمها |
-| 8️⃣ | **الذكاء الاصطناعي** | Python, APIs | 🔮 طويل المدى |
+| 1️⃣ | **Programming Fundamentals** | C++, Logic, OOP | ✅ Mastered |
+| 2️⃣ | **Frontend Basics** | HTML5, CSS3, JavaScript | 🟡 Learning |
+| 3️⃣ | **Frontend Frameworks** | React, TailwindCSS | ⏳ Coming Up |
+| 4️⃣ | **Backend Development** | PHP, Node.js, Python | 🟡 Learning |
+| 5️⃣ | **Databases** | MySQL, MongoDB | ⏳ Coming Up |
+| 6️⃣ | **Mobile Apps** | Flutter, React Native | ⏳ Coming Up |
+| 7️⃣ | **Deployment & Hosting** | Git, GitHub, Vercel, Netlify | 🟡 Learning |
+| 8️⃣ | **Artificial Intelligence** | Python, APIs | 🔮 Long-Term |
 
 </div>
 
 ---
 
-## 💡 ما يجب أن تعرفه لتصبح مطورة Full-Stack كاملة
+## 💡 What You Need to Know to Become a Full-Stack Developer
 
 <div align="center">
 
@@ -113,40 +92,40 @@ An aspiring software developer passionate about building and designing applicati
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 المهارات الأساسية (Basics)
-- ✅ **HTML5** — بنية الصفحات
-- ✅ **CSS3** — التنسيق والتصميم
-- ✅ **JavaScript** — التفاعل والديناميكية
-- ✅ **Git & GitHub** — إدارة الإصدارات
-- ✅ **Responsive Design** — التصميم المتجاوب
+### 🎯 Core Foundations
+- ✅ **HTML5** — Page structure
+- ✅ **CSS3** — Styling & design
+- ✅ **JavaScript** — Interactivity & logic
+- ✅ **Git & GitHub** — Version control
+- ✅ **Responsive Design** — Mobile-first layouts
 
-### 🎨 الواجهات الأمامية (Frontend)
-- 🟡 **React** أو **Vue.js** — أطر العمل
-- 🟡 **TailwindCSS** أو **Bootstrap**
-- ⏳ **TypeScript** — نسخة JavaScript المطورة
-- ⏳ **Next.js** — إطار React
-- ⏳ **Redux / Zustand** — إدارة الحالة
+### 🎨 Frontend
+- 🟡 **React** or **Vue.js** — Frameworks
+- 🟡 **TailwindCSS** or **Bootstrap**
+- ⏳ **TypeScript** — The upgraded JavaScript
+- ⏳ **Next.js** — The React framework
+- ⏳ **Redux / Zustand** — State management
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ الواجهات الخلفية (Backend)
+### ⚙️ Backend
 - 🟡 **Node.js + Express**
 - 🟡 **PHP + Laravel**
 - 🟡 **Python + Django / Flask**
-- ⏳ **REST APIs** و **GraphQL**
+- ⏳ **REST APIs** & **GraphQL**
 - ⏳ **Authentication** (JWT, OAuth)
 
-### 🗄️ قواعد البيانات (Databases)
+### 🗄️ Databases
 - 🟡 **MySQL** / **PostgreSQL** (SQL)
 - ⏳ **MongoDB** (NoSQL)
 - ⏳ **Redis** (Caching)
 - ⏳ **Prisma** / **Sequelize** (ORM)
 
-### 📱 تطبيقات الجوال (Mobile)
+### 📱 Mobile Apps
 - ⏳ **Flutter** (Dart)
 - ⏳ **React Native** (JS)
-- ⏳ **PWA** — تطبيقات ويب تقدمية
+- ⏳ **PWA** — Progressive Web Apps
 
 </td>
 </tr>
@@ -156,7 +135,7 @@ An aspiring software developer passionate about building and designing applicati
 
 ---
 
-## 📊 إحصائيات GitHub | GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -169,15 +148,11 @@ An aspiring software developer passionate about building and designing applicati
 
 ---
 
-## 🌱 رؤيتي | My Vision
+## 🌱 My Vision
 
 <div align="center">
 
-> **AR:** أن أتقن مختلف لغات البرمجة وأبني حلولاً تكنولوجية مبتكرة تترك بصمة واضحة، وأن أرى هذا الملف بعد سنوات شاهداً على قفزات تطوري.
->
-> **EN:** To master various programming languages and build innovative tech solutions that leave a clear mark — and to look back at this file years from now as proof of my growth.
->
-> **RU:** Освоить различные языки программирования и создавать инновационные решения, оставляющие заметный след.
+> To master a wide range of programming languages and build innovative tech solutions that leave a clear mark on the world — and to look back at this file years from now as living proof of how far I've come. ✨
 
 </div>
 
@@ -185,7 +160,7 @@ An aspiring software developer passionate about building and designing applicati
 
 <div align="center">
 
-**💬 "التعلم المستمر هو المفتاح" — Continuous learning is the key**
+**💬 "Continuous learning is the key."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 
